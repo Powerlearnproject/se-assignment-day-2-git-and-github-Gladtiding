@@ -3,7 +3,6 @@
 version control is a system that helps track changes made to code, documents, or other digital content over time. It's like having a magic folder that remembers every edit, delete, or addition you make, so you can easily jump back to a previous state if needed.
 
 Here are the fundamental concepts:
-
 1. *Repository (Repo)*: The central location where all versions of your code are stored.
 2. *Commits*: Snapshots of your code at a particular point in time, with a description of changes made.
 3. *Branches*: Separate lines of development, allowing multiple features or fixes to be worked on simultaneously.
